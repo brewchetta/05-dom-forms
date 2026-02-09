@@ -1,8 +1,8 @@
 // Review
 
-// 1. Choose one of the sharks in the "sharksArray" as your featured shark. Accessing that shark, change each section of the "featured-shark" section so that it has the details for that shark.
+// 1. Choose one of the sharks in the "sharksArray" as your featured shark. Accessing that shark, change each section of the "featured-shark" section so that it has the details for that shark. Do this using Javascript DOM manipulation.
 
-// 2. For each shark object in the sharksArray append a new <li> in the "shark-facts-list" with that shark's `funFact`.
+// 2. For each shark object in the sharksArray append a new <li> in the "shark-facts-list" with that shark's `funFact`. Do this using Javascript DOM manipulation.
 
 const sharksArray = [
     {
